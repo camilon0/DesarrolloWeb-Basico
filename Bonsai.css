@@ -1,0 +1,46 @@
+div p.claseDiv {
+    color: tomato;
+}
+
+#titulo {
+    color: rgb(71, 255, 154);
+}
+
+table{
+    width: 100%;
+    border-collapse:collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+
+}
+
+th{
+    background-color: tomato;
+    color: white;
+    text-align: left;
+}
+
+tr:hover{
+    background-color: #aaa;
+    cursor: pointer;
+}
+
+#fondo {
+    background-color: rgb(50, 109, 23);
+    
+}
+a:link{
+    color: rgb(233, 23, 16);
+
+}
+a:hover{
+    color:cadetblue
+
+}
+
+a:active{
+    color:cornsilk
+}
